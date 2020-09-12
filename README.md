@@ -1,16 +1,6 @@
 
-No command s found, did you mean:
- Command as in package binutils
- Command [ in package coreutils
- Command sh in package dash
- Command gs in package ghostscript
- Command k in package kona
- Command ts in package moreutils
- Command o in package o
- Command o in package o-editor
- Command ps in package procps
- Command sv in package runit
- Command sc in package sc
- Command sl in package sl
- Command st in package st from the x11-repo repository
- Command sr in package surfraw from the unstable-repo repository
+$ s git-m"firs commit
+> s git // Step 2: Authenticate
+> -npm login --registry=https://npm.pkg.github.com/
+> s git push-g origin master
+> S git remote add orgin https://github.com/Arinsoftware/starter.git
